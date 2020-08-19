@@ -1,1 +1,1 @@
-# git_test
+This is gijutsu-samurai's first git project!
