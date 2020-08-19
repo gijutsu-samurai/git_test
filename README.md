@@ -1,1 +1,1 @@
-This is gijutsu-samurai's first git project!
+“This is gijutsu-samurai’s first git project!”
